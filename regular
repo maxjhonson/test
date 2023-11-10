@@ -1,4 +1,3 @@
 [
-"test1<|>test2<|>--proceso=5 --adios=8"
-
+"/#(?<symbol>[A-Za-z0-9]+)([ ])(buy)[ ](Setup)/i<|>--side=BUY --action=order"
 ]
