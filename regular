@@ -1,3 +1,4 @@
 [
-"#(?<symbol>[A-Za-z0-9]+)([ ])(buy)[ ](Setup)<|>--side=BUY --action=order"
+"#(?<symbol>[A-Za-z0-9]+)([ ])(buy)[ ](Setup)<|>--side=BUY --action=FUTURES_MARKET_BUY",
+"#(?<symbol>[A-Za-z0-9]+)([ ])(sell)[ ](Setup)<|>--side=BUY --action=FUTURES_MARKET_SELL",
 ]
