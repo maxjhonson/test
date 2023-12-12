@@ -5,6 +5,6 @@
 "#(?<symbol>[A-Za-z0-9]+)([ ])(buy)[ ](high sell higher)<|>--side=BUY --action=FUTURES_MARKET_BUY",
 "#(?<symbol>[A-Za-z0-9]+)([ ])(sell)[ ](Setup)<|>--side=SELL --action=FUTURES_MARKET_SELL",
 "#(?<symbol>[A-Za-z0-9]+)([ ])(short)[ ](Scalp Setup)<|>--side=SELL --action=FUTURES_MARKET_SELL",
-"#(?<symbol>[A-Za-z0-9]+)([ ])(Swing)[ ](Short Setup)<|>--side=SELL --action=FUTURES_MARKET_SELL"
+"#(?<symbol>[A-Za-z0-9]+)([ ])(Swing)[ ](Short Setup)<|>--side=SELL --action=FUTURES_MARKET_SELL",
 "#(?<symbol>[A-Za-z0-9]+)([ ])(Short)[ ](low take profit lower)<|>--side=SELL --action=FUTURES_MARKET_SELL"
 ]
